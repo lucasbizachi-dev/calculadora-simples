@@ -20,3 +20,4 @@ Este é um projeto de uma calculadora simples implementada em JavaScript.
 cd calculadora-simples
 ```
 ## Licença
+Este projeto está licenciado sob a MIT License.
