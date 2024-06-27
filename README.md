@@ -15,4 +15,8 @@ Este é um projeto de uma calculadora simples implementada em JavaScript.
    ```bash
    git clone https://github.com/lucasbizachi-dev/calculadora-simples.git
    ```
-
+2- Navegue até o diretório do projeto:
+```
+cd calculadora-simples
+```
+## Licença
